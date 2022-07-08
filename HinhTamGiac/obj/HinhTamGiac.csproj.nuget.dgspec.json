@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhTamGiac\\HinhTamGiac.csproj": {}
+    "C:\\Users\\NN\\Desktop\\New folder\\github-lap-trinh-can-ban\\github-lap-trinh-can-ban\\HinhTamGiac\\HinhTamGiac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhTamGiac\\HinhTamGiac.csproj": {
+    "C:\\Users\\NN\\Desktop\\New folder\\github-lap-trinh-can-ban\\github-lap-trinh-can-ban\\HinhTamGiac\\HinhTamGiac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhTamGiac\\HinhTamGiac.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\New folder\\github-lap-trinh-can-ban\\github-lap-trinh-can-ban\\HinhTamGiac\\HinhTamGiac.csproj",
         "projectName": "HinhTamGiac",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhTamGiac\\HinhTamGiac.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\New folder\\github-lap-trinh-can-ban\\github-lap-trinh-can-ban\\HinhTamGiac\\HinhTamGiac.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhTamGiac\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\New folder\\github-lap-trinh-can-ban\\github-lap-trinh-can-ban\\HinhTamGiac\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
